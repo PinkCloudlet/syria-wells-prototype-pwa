@@ -11,7 +11,9 @@ A lightweight, offline-first web application for mapping and reporting the statu
 Designed for field use with unstable connectivity and low-end mobile devices.
 
 ![app mockup](wells.png)
-
+<p align="center">
+  <img src="wells.png" alt="App Mockup" width="400">
+</p>
 ## Context
 
 Syria is facing chronic shortages of drinking water, and water infrastructure has been severely damaged by conflict in many places.
